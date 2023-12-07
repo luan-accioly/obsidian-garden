@@ -6,6 +6,6 @@ tags:
 
 ---
 
-[[{Testes}1VA | 1VA]]
+[[{TS}1VA| 1VA]]
 
-[[{Testes} Resumos]]
+[[{TS} Resumos]]

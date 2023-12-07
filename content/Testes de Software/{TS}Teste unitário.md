@@ -49,7 +49,7 @@ draft: false
 		- Não olhamos código fonte
 		- Não olhamos o documento da arquitetura
 		- Não conhecemos a estrutura interna do sistema
-- **[[{Testes} Caixa-branca | Caixa-branca]]**
+- **[[{TS} Caixa-branca| Caixa-branca]]**
 	- O sistema é uma caixa-branca (transparente)
 	- Os testes são produzidos a partir de informações sobre a estrutura interna do sistema
 		- Tipicamente, código fonte
