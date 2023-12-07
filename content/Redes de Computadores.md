@@ -1,10 +1,11 @@
 ---
-draft: true
+draft: false
+tags:
+  - Disciplina
 ---
 
-
-#Disciplina 
 ### Resumos:
+
 - [[Modelo OSI]]
 - [[Projeto - Redes de Computadores]]
 - [[Resumo 2va]]

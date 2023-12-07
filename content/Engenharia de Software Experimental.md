@@ -1,9 +1,8 @@
 ---
-draft: true
+draft: false
+tags:
+  - Disciplina
 ---
-
-
-#Disciplina  
 
 [[Mapeamento e Revisão Sistemática]]
 

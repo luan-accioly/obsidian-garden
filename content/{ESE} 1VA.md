@@ -1,11 +1,9 @@
 ---
-draft: true
+draft: false
 ---
 
 
 **Possibilidades de estudos:**
-
-
 
 - Privacidade:
 	- Carros:
@@ -15,6 +13,7 @@ draft: true
 			- [After Researching Cars and Privacy, Here’s What Keeps Us up at Night](https://foundation.mozilla.org/en/privacynotincluded/articles/after-researching-cars-and-privacy-heres-what-keeps-us-up-at-night/)
 
 **Pontos a se considerar**
+
 - Analisar método
 - Elementos:
 	- Questionario?
