@@ -9,7 +9,7 @@ tags:
 ## Cadeiras:
 - [[Engenharia de Software Experimental]]
 - [[Inteligência Artificial]]
-- [[{TS}Teste de Software]]
+- [[Teste de Software]]
 - [[Banco de Dados Não Convencional]]
 - [[Compiladores]]
 - [[Redes de Computadores]]
