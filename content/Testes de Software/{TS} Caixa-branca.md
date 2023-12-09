@@ -46,7 +46,7 @@ Cobertura de comando do `teste 1`: 4/5 = 0,8 = 80%
 
 Qual o percentual de cobertura de código considerando-se a soma da cobertura de todos os casos de Teste abaixo?
 
-```C
+```java {1, 2, 3, 4, 7, 10, 11}
 int function SUT(int x, int y, int z) {
 	if (x > y+z) {
 		if (y > z) {
