@@ -16,7 +16,7 @@ draft: true
 		- Compass
 		- 3T
 
-[[{DBNC}{Rascunho} Slides| Slides]]
+[[{BDNC}{Rascunho} Slides| Slides]]
 
 ### Orientação a documentos
 A principal diferença entre MongoDB e os principais sistemas tradicionais de bancos de dados relacionais conhecidos como RDBMS, é que, em vez de tabelas, linhas e colunas, a base para armazenamento no MongoDB é um documento.

@@ -7,7 +7,7 @@ draft: true
 
 [Apresentação](https://docs.google.com/presentation/d/10QRh2GUVY5unF73F06VX_0z5-YVn96-Tj54Vow9ZAQA/edit#slide=id.g8794a74c9d_0_2475)
 ## Estrutura da apresentação
-- [[{Rascunho}-Introdução ao MongoDB (Acciolyinho)]]
+- [[{BDNC} Introdução ao MongoDB (Acciolyinho)]]
 	- Orientado a documentos
 	- Onde é usado na indústria
 	- Modelagem

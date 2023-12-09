@@ -5,6 +5,6 @@ draft: true
 
 #Disciplina 
 
-[[Workshop]]
+[[{BDNC} Workshop | Workshop]]
 [[[BDNC] Atividade Neo4J|Atividades]]
 
