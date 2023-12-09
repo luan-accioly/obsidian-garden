@@ -8,4 +8,3 @@ tags:
 
 [[{TS}1VA| 1VA]]
 
-[[{TS} Resumos]]
