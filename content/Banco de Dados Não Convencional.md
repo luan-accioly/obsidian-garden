@@ -7,4 +7,5 @@ draft: true
 
 [[{BDNC} Workshop | Workshop]]
 [[[BDNC] Atividade Neo4J|Atividades]]
+[[{BDNC} Atividade CassandraDB]]
 
