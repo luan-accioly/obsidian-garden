@@ -10,6 +10,6 @@ draft: false
 
 ---
 
-**Anotações:**
+## 📚 Estudos:
 
 - [[UFRPE]]

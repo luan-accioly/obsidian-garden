@@ -25,3 +25,10 @@ draft: false
 **Resumos:**
 - [[{ESE} Artigo 1 | It’s Official: Cars Are the Worst Product Category We Have Ever Reviewed for Privacy]]
 - [[{ESE} Artigo 2| What Data Does My Car Collect About Me and Where Does It Go?]]
+
+**Planejamento:**
+
+[[{ESE} Classificação | Classificação]]
+
+
+**Slides:**

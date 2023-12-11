@@ -3,7 +3,7 @@ draft: false
 title: What Data Does My Car Collect About Me and Where Does It Go?
 ---
 
-**Aprendizados depois de examinar as políticas de privacidade de 25 maarcas de carros:**
+**Aprendizados depois de examinar as políticas de privacidade de 25 marcas de carros:**
 
 - [[# Como meu carro coleta dados sobre mim?]]
 - [[#Quais dados meu carro coleta sobre mim? | Quais dados meu carro coleta?]]
