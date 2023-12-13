@@ -1,9 +1,9 @@
 ---
 draft: false
 title: "It’s Official: Cars Are the Worst Product Category We Have Ever Reviewed for Privacy"
+link: https://foundation.mozilla.org/pt-BR/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/
 ---
 
-[Link do artigo original](https://foundation.mozilla.org/pt-BR/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/)
  
 ---
 

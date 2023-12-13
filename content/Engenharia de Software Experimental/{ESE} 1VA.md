@@ -15,8 +15,10 @@ title: Seminário 1VA
 
 ### Resumos:
 
+- [[{ESE} Metodologia utilizada pela Mozilla | Metodologia utilizada pela Mozilla]]
 - [[{ESE} Artigo 1 | Artigo 1]]
 - [[{ESE} Artigo 2| Artigo 2]]
+- [[{ESE} Artigo 4| Artigo 4]]
 
 ### Planejamento:
 
@@ -24,4 +26,5 @@ title: Seminário 1VA
 
 #### Slides:
 
+[[{ESE} Estrutura de Slides | Estrutura]]
 

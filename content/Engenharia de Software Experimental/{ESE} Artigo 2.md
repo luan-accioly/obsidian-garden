@@ -1,7 +1,10 @@
 ---
 draft: false
 title: What Data Does My Car Collect About Me and Where Does It Go?
+link: https://foundation.mozilla.org/pt-BR/privacynotincluded/articles/what-data-does-my-car-collect-about-me-and-where-does-it-go/
 ---
+
+
 
 **Aprendizados depois de examinar as políticas de privacidade de 25 marcas de carros:**
 
