@@ -1,0 +1,1 @@
+/home/accioly/obsidian-notes/UFRPE/{DOI} styles-crawler.md

@@ -1,6 +1,1 @@
----
-draft: true
----
-
-
- 
+/home/accioly/obsidian-notes/UFRPE/Aulas.md

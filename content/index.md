@@ -1,15 +1,1 @@
----
-title: ""
-draft: false
----
-
-<img src="./squirtle.png" height="180px" />
-<img src="./snorlax.png" height="180px" />
-
-> Pro mal aluno, todo professor é ruim
-
----
-
-## 📚 Estudos:
-
-- [[UFRPE]]
+/home/accioly/obsidian-notes/UFRPE/index.md

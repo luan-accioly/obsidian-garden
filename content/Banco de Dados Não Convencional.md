@@ -1,11 +1,1 @@
----
-draft: true
----
-
-
-#Disciplina 
-
-[[{BDNC} Workshop | Workshop]]
-[[[BDNC] Atividade Neo4J|Atividades]]
-[[{BDNC} Atividade CassandraDB]]
-
+/home/accioly/obsidian-notes/UFRPE/Banco de Dados Não Convencional.md

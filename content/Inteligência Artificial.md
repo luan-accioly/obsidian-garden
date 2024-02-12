@@ -1,10 +1,1 @@
----
-draft: true
----
-
-
-#Disciplina  
-
-[[[IA] Regras da disciplina| Regras da disciplina]]
-[[{IA} Listas]]
-[[{IA} Projetos]]
+/home/accioly/obsidian-notes/UFRPE/Inteligência Artificial.md
