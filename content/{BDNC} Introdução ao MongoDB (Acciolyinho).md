@@ -1,1 +1,0 @@
-/home/accioly/obsidian-notes/UFRPE/{BDNC} Introdução ao MongoDB (Acciolyinho).md

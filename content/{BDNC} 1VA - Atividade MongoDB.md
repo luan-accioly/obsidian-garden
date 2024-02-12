@@ -1,1 +1,0 @@
-/home/accioly/obsidian-notes/UFRPE/{BDNC} 1VA - Atividade MongoDB.md

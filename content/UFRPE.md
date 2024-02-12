@@ -1,1 +1,22 @@
-/home/accioly/obsidian-notes/UFRPE/UFRPE.md
+---
+draft: false
+tags:
+  - UFRPE
+---
+
+
+
+## Cadeiras:
+- [[Engenharia de Software Experimental]]
+- [[Inteligência Artificial]]
+- [[Teste de Software]]
+- [[Banco de Dados Não Convencional]]
+- [[Compiladores]]
+- [[Redes de Computadores]]
+- [[Teoria da Computação]]
+
+## Projetos independentes
+> [[ufrpe-newsletter]]
+
+> [[{DOI} DOI-citation-crosscite]] 
+

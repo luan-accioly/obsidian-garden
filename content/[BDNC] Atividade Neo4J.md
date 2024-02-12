@@ -1,1 +1,0 @@
-/home/accioly/obsidian-notes/UFRPE/[BDNC] Atividade Neo4J.md
