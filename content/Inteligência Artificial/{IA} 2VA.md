@@ -69,6 +69,7 @@ y = brute_df['class'].to_numpy()
 # Base com normalização de valores. -1 : 1
 scaler = MinMaxScaler(feature_range=(-1, 1))
 processed_X = scaler.fit_transform(brute_X)
+
 ```
 
 ### Resultados obtidos
