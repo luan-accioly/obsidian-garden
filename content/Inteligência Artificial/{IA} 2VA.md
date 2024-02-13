@@ -51,6 +51,26 @@ Onde:
 - $X_{\text{min}}$ é o valor mínimo do recurso
 - $X_{\text{max}}$ é o valor máximo do recurso
 
+```python
+# Base sem processamento
+brute_X = brute_df.drop(columns=['obj_ID',
+                                 'field_ID',
+                                 'spec_obj_ID',
+                                 'fiber_ID',
+                                 'plate',
+                                 'run_ID',
+                                 'rerun_ID',
+                                 'MJD',
+                                 'class']).to_numpy()
+
+# Classes
+y = brute_df['class'].to_numpy()
+
+# Base com normalização de valores. -1 : 1
+scaler = MinMaxScaler(feature_range=(-1, 1))
+processed_X = scaler.fit_transform(brute_X)
+```
+
 ### Resultados obtidos
 
 #### Tabelas
