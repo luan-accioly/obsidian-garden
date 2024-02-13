@@ -22,9 +22,8 @@ draft: false
 
 [Link](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17/)
 
-> Classificação de estrelas, galáxias e Quasares
-
-Os dados consistem em 100.000 observações do espaço obtidas pelo SDSS (Sloan Digital Sky Survey). Cada observação é descrita por 17 colunas de características e 1 coluna de classe que a identifica como uma estrela, galáxia ou quasar.
+>[!TIP] Sobre a base
+> Os dados consistem em 100.000 observações do espaço obtidas pelo SDSS (Sloan Digital Sky Survey). Cada observação é descrita por 17 colunas de características e 1 coluna de classe que a identifica como uma estrela, galáxia ou quasar.
 
 **Algumas colunas presentes no dataset:**
 
@@ -39,7 +38,7 @@ Os dados consistem em 100.000 observações do espaço obtidas pelo SDSS (Sloan 
 
 #### Pré-Processamento utilizado
 
-**MinMaxScaler: ** utilizada para dimensionar (ou normalizar) os recursos em um intervalo especifico, geralmente entre `0 e 1` ou `-1 e 1`
+**MinMaxScaler:** utilizada para dimensionar (ou normalizar) os recursos em um intervalo especifico, geralmente entre `0 e 1` ou `-1 e 1`
 
 $$\text{Fórmula do MinMaxScaler:}$$
 
