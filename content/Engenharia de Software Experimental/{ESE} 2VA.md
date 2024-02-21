@@ -32,7 +32,6 @@ Investigar a eficácia de diferentes algoritmos de ML na classificação estelar
 - Avaliar o desempenho dos modelos utilizando métricas como Precisão, Recall, F1-Score e Acurácia.
 - Contribuir para a literatura astronômica fornecendo insights sobre técnicas eficazes de classificação estelar
 
-
 ### Estrutura do documento
 
 ---
