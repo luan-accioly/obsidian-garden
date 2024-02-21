@@ -11,4 +11,6 @@ tags:
 [[{ESE} Atividade 01 | Atividade 01]]
 
 ### Avaliações
-[[{ESE} 1VA | 1VA]]
+
+- [[{ESE} 1VA | 1VA]]
+- [[{ESE} 2VA | 2VA]]

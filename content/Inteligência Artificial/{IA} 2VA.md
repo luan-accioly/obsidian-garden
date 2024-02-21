@@ -1,15 +1,11 @@
 ---
 draft: false
+cover: "https://www.infoescola.com/wp-content/uploads/2008/04/galaxia-andromeda.jpg"
 ---
 
 ## Classificação Estelar
 
 **Área de aplicação:** Astronomia
-
-**Alunos:**
-
-- João Victor Carvalho
-- Luan Lucas Dias Accioly
 
 **Algoritmos utilizados:**
 
