@@ -12,5 +12,11 @@ tags:
 
 ### Avaliações
 
+**1VA:**
+
 - [[{ESE} 1VA | 1VA]]
-- [[{ESE} 2VA | 2VA]]
+
+**2VA:**
+
+- [[{ESE} 2VA | Artigo]]
+- [[{ESE} 2VA - Falas | Falas]]
