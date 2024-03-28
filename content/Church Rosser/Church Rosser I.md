@@ -33,7 +33,7 @@ ParallelDownloads = 10
 ILoveCandy
 ```
 
-- [[🪴 Garden/Church Rosser/SSH]]
+- [[Garden/Church Rosser/SSH]]
 - [[Containers]]
 - [[Discos]]
 - [[Cron]]
