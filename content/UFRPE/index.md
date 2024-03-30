@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 📚 UFRPE
+title: UFRPE
 tags:
   - UFRPE
 ---

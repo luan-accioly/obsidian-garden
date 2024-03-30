@@ -12,19 +12,29 @@ draft: false
 
 ---
 
-## 🧠 Backup do meu cérebro
-
-- [[Setup | Setup Linux]]: apps e dotfiles
-- [[Church Rosser I]]: homelab
-
 ## 📚 UFRPE
 
-
-[[📚 UFRPE | Visão Geral]]
+[[UFRPE/ | Visão Geral]]
 
 ### Disciplinas Atuais
 
-- [[Jogos Digitais]]
-- [[Arquitetura e Organização de Computadores]]
-- [[Mineração de Texto]]
-- [[Gestão de Processos e Negócios]]
+- [[UFRPE/Jogos Digitais/]]
+- [[UFRPE/Arquitetura e Organização de Computadores/]]
+- [[UFRPE/Mineração de Texto/]]
+- [[UFRPE/Gestão de Processos de Negócio/]]
+
+## 🖥️ Contingência Linux
+
+- [[Setup | Setup]]: apps e dotfiles
+
+
+## 🧠 Church Rosser I
+
+*as a server*
+
+- [[Sobre a máquina]]
+- [[{CR}SSH | SSH]]
+- [[Containers]]
+- [[Discos]]
+
+

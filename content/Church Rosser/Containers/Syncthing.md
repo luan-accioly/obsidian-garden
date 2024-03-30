@@ -59,8 +59,9 @@ systemctl start syncthing@<username>.service
 > Pasta monitorada pelo QBitTorrent
 
 **Localizações:**
-Church Rosser - `~/server/qbittorrent/monitoring-folder`
-PC principal - `~/sync-torrent`
+
+- Church Rosser - `~/server/qbittorrent/monitoring-folder`
+- PC principal - `~/sync-torrent`
 
 **Estrutura:**
 ```
