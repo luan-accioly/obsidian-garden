@@ -7,7 +7,7 @@ tags:
 
 ## Disciplinas:
 
-- [[Engenharia de Software Experimental]]
+- [[UFRPE/Engenharia de Software Experimental/]]
 - [[Inteligência Artificial]]
 - [[Teste de Software]]
 - [[Banco de Dados Não Convencional]]

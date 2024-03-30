@@ -17,6 +17,3 @@ tags:
 - [[{ESE} 1VA | 1VA]]
 
 **2VA:**
-
-- [[{ESE} 2VA | Artigo]]
-- [[{ESE} 2VA - Falas | Falas]]

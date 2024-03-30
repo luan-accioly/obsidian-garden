@@ -1,9 +1,11 @@
 ---
+title: 'Projetos'
 draft: false
-title: Seminário 1VA
 ---
 
-[[{ESE} Descrição seminário 1VA | Descrição]]
+## 1VA
+
+- [[{ESE} Descrição seminário 1VA | Descrição]]
 
 ### Artigos utilizados:
 
@@ -13,7 +15,7 @@ title: Seminário 1VA
 - [After Researching Cars and Privacy, Here’s What Keeps Us up at Night](https://foundation.mozilla.org/en/privacynotincluded/articles/after-researching-cars-and-privacy-heres-what-keeps-us-up-at-night/)
 - [Metodologia adotada pela Mozilla](https://foundation.mozilla.org/pt-BR/privacynotincluded/about/methodology/)
 
-### Resumos:
+### Artigos Resumidos:
 
 - [[{ESE} Metodologia utilizada pela Mozilla | Metodologia utilizada pela Mozilla]]
 - [[{ESE} Artigo 1 | Artigo 1]]
@@ -24,8 +26,10 @@ title: Seminário 1VA
 
 [[{ESE} Classificação | Classificação]]
 
-#### Slides:
+----
 
-[[{ESE} Estrutura de Slides | Estrutura]]
-[[{ESE} Falas | Falas]]
+## 2VA
+
+- [[{ESE} 2VA | Artigo produzido]]
+- [[{ESE} 2VA - Falas | Falas]]
 
