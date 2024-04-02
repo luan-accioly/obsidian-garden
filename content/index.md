@@ -23,8 +23,6 @@ draft: false
 - [[Mineração de Texto]]
 - [[Gestão de Processo de Negócio| Gestão de Processos de Negócio]]
 
-dfdfd
-
 ## 🖥️ Contingência Linux
 
 - [[Setup | Setup]]: apps e dotfiles
@@ -37,5 +35,7 @@ dfdfd
 - [[{CR}SSH | SSH]]
 - [[Containers]]
 - [[Discos]]
+
+
 
 
