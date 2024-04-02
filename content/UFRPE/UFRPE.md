@@ -7,13 +7,17 @@ tags:
 
 ## Disciplinas:
 
-- [[UFRPE/Engenharia de Software Experimental/]]
+- [[UFRPE/Engenharia de Software Experimental/Engenharia de Software Experimental| Engenharia de Software Experimental]]
 - [[Inteligência Artificial]]
-- [[Teste de Software]]
+- [[Testes de Software|Testes de Software]]
 - [[Banco de Dados Não Convencional]]
 - [[Compiladores]]
 - [[Redes de Computadores]]
 - [[Teoria da Computação]]
+- [[Jogos Digitais]]
+- [[Arquitetura e Organização de Computadores]]
+- [[Mineração de Texto]]
+- [[Gestão de Processo de Negócio| Gestão de Processos de Negócio]]
 
 ## Projetos
 

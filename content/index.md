@@ -14,19 +14,20 @@ draft: false
 
 ## 📚 UFRPE
 
-[[UFRPE/ | Visão Geral]]
+[[UFRPE| Visão Geral]]
 
 ### Disciplinas Atuais
 
-- [[UFRPE/Jogos Digitais/]]
-- [[UFRPE/Arquitetura e Organização de Computadores/]]
-- [[UFRPE/Mineração de Texto/]]
-- [[UFRPE/Gestão de Processos de Negócio/]]
+- [[Jogos Digitais]]
+- [[Arquitetura e Organização de Computadores]]
+- [[Mineração de Texto]]
+- [[Gestão de Processo de Negócio| Gestão de Processos de Negócio]]
+
+dfdfd
 
 ## 🖥️ Contingência Linux
 
 - [[Setup | Setup]]: apps e dotfiles
-
 
 ## 🧠 Church Rosser I
 
