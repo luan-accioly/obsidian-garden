@@ -1,0 +1,1 @@
+> consiste em analisar o significado das palavras, ou seja, interpretar as expressões fixadas, sentenças inteiras e enunciados no contexto, pois as frases podem ser ambíguas.
