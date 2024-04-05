@@ -2,7 +2,7 @@
 
 VALORANT
 
-## Qual o tema principal do jogo?
+## Tema principal do jogo?
 
 - Jogo de tiro tático em equipe
 - Dois times competem para alcançar o objetivo seu objetivo
@@ -13,11 +13,14 @@ VALORANT
 
 ### Identidade Visual
 
-O jogo conta com gráficos simples e bastante coloridos
+Marcada por um estilo que combina elementos futuristas com uma estética moderna e vibrante. Valorant apresenta uma atmosfera que mistura tecnologia avançada com elementos táticos.
+
+> [!Quote] Thiago Gutierrez - Diretor Criativo do Branding do Valorant
+> Uma marca que os jogadores têm orgulho de abraçar como um aspecto importante de suas vidas. E o mais importante, uma plataforma para pessoas com ideias semelhantes se expressarem através da linguagem de armas táticas altamente letais e precisas.
 
 ### Objetos, Atributos e Estados
 
-#### Os jogadores podem comprar (round a round):
+#### Compras (round a round)
 
 - Armas 
 - Habilidades
@@ -25,14 +28,14 @@ O jogo conta com gráficos simples e bastante coloridos
 
 ![[Pasted image 20240404011510.png]]
 
-#### Estados:
+#### Estados
 
 - Vida
 - Armadura
 - Munição
 - Habilidades
 
-#### Ações:
+#### Ações
 
 - Correr
 - Andar
@@ -42,7 +45,7 @@ O jogo conta com gráficos simples e bastante coloridos
 - Mirar
 - Uso de habilidades
 
-#### Regras:
+### Regras
 
 - 5 players `VS` 5 players.
 - Após o 12° round, os lados se invertem: quem estava no lado do ataque, vai para a defesa e vice-versa.
@@ -67,7 +70,7 @@ O jogo conta com gráficos simples e bastante coloridos
 
 > Se todos os atacantes forem eliminados antes da Spike ser posta ao chão, o round é ganho.
 
-#### Habilidades:
+### Habilidades
 
 > Cada agente possui habilidades únicas que devem ser utilizadas para conseguir vantagem no round
 
@@ -85,15 +88,15 @@ O jogo conta com gráficos simples e bastante coloridos
 - Cura
 - Bombas de Luz (Flashes)
 
-#### Chances:
+### Chances
 
-O Valorant tem sistema de gameplay nivelado, ou seja: todos os jogadores tem acesso às mesmas armas, que dão o mesmo dano que custam igual para os dois lados e possuem a mesma quantia de munição. 
+O Valorant tem sistema de gameplay nivelado, ou seja: todos os jogadores tem acesso às mesmas armas, que dão o mesmo dano, que custam o mesmo para ambos os lados e possuem a mesma quantia de munição. 
 
-#### Escolhas:
+### Escolhas
 
 Todo início de round possui um freeze-time com barreiras (para impedir avanço excessivo) que serve para os jogadores se posicionarem no mapa e debaterem a estratégia para aquele round, como o modo com que gastarão seu dinheiro e quais habilidades vão usar em qual tempo do round.
 
-#### Sistema de Recompensas:
+### Sistema de Recompensas
 
 Os jogadores são recompensados com [[Atividade de Pesquisa#Os jogadores podem comprar (round a round)| créditos]] em alguns cenários:
 
@@ -106,11 +109,11 @@ Os jogadores são recompensados com [[Atividade de Pesquisa#Os jogadores podem c
 - Individual:
 	- **Eliminar um inimigo:** 200
 
-#### Tipo de Mundo:
+### Tipo de Mundo
 
 Restrito ao mapa que está sendo jogado.
 
-#### Tempo de gameplay:
+### Tempo de gameplay
 
 Nos modos clássicos do jogo (casual ou competitivo) as partidas costumam durar **entre 30 e 40 minutos.**
 
@@ -136,7 +139,15 @@ O Valorant frequentemente passa por ajustes de balanceamento para garantir que t
 - Menu de compra de armas e equipamentos.
 - Placar mostrando pontuações e estatísticas da partida.
 
+## Tecnologias utilizadas
+
+
+
+
+
 ## Referências
 
 - [Qual É A Duração De Um Jogo VALORANT?](https://www.thespike.gg/br/valorant/dicas/qual-e-a-duracao-de-um-jogo-valorant)
 - [Valorant: Ranqueada mais longa do Brasil durou 1 hora e 45 rounds](https://www.uol.com.br/start/ultimas-noticias/2021/06/20/valorant-ranqueada-mais-longa-do-brasil-durou-1-hora-e-45-rounds-veja.htm?cmpid=copiaecola) 
+- [Valorant Branding](https://thigu.work/valorant-branding)
+- [VALORANT’s foundation is Unreal Engine](https://www.unrealengine.com/en-US/tech-blog/valorant-s-foundation-is-unreal-engine)
