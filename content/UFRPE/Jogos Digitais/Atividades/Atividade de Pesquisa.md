@@ -45,6 +45,11 @@ Marcada por um estilo que combina elementos futuristas com uma estética moderna
 - Mirar
 - Uso de habilidades
 
+### Gameplay
+
+<iframe width="100%" src="https://www.youtube.com/embed/IhhjcB2ZjIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+
 ### Regras
 
 - 5 players `VS` 5 players.
@@ -142,7 +147,7 @@ O Valorant frequentemente passa por ajustes de balanceamento para garantir que t
 ## Tecnologias utilizadas
 
 
-
+sei la esse carai
 
 
 ## Referências
