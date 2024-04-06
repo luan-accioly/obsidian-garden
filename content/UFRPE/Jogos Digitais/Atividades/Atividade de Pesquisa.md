@@ -5,7 +5,7 @@ VALORANT
 ## Tema principal do jogo?
 
 - Jogo de tiro tático em equipe
-- Dois times competem para alcançar o objetivo seu objetivo
+- Dois times competem para alcançar o seu objetivo
 	- O objetivo varia dependendo do lado do time (ataque ou defesa)
 - O jogo retrata a disputa entre os mesmos agentes (personagens) de dois universos diferentes
 
