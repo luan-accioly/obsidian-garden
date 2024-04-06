@@ -146,8 +146,17 @@ O Valorant frequentemente passa por ajustes de balanceamento para garantir que t
 
 ## Tecnologias utilizadas
 
+### Unreal Engine 4
 
-sei la esse carai
+A Riot Games optou por utilizar a Unreal Engine 4, uma escolha que permitiu à equipe de desenvolvimento se concentrar na jogabilidade e nas otimizações, em vez de investir tempo na criação de sistemas básicos. 
+
+> [!INFO] Otimizações
+> Para garantir que Valorant fosse acessível a uma ampla base de jogadores, a equipe de engenharia realizou várias otimizações de desempenho. Isso incluiu ajustes no renderizador, utilizando o caminho de renderização móvel como base, e reestruturação dos sistemas de iluminação para se adequar às demandas específicas dos jogos táticos. 
+
+## Sobre a empresa e equipe de desenvolvimento
+
+- Sendo desenvolvido desde 2014
+- Jogo em constante desenvolvimento
 
 
 ## Referências
