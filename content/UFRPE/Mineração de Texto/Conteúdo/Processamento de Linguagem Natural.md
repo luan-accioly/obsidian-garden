@@ -59,3 +59,9 @@ draft: false
 	- Acabou de fumar um 🚬?
 
 
+## Representação de Textos
+
+> [!INFO]
+> A representação de textos em Processamento de Língua Natural (PLN) refere-se à transformação de linguagem humana em formas mais estruturadas e manipuláveis por computadores. Isso envolve tanto a geração de linguagem compreensível para humanos a partir de dados armazenados em bancos de dados quanto a compreensão e interpretação de linguagem humana por computadores. Os desafios incluem extrair significado da linguagem natural, fazer com que os computadores compreendam a linguagem humana e sejam capazes de gerar texto naturalmente.
+
+![[Pasted image 20240407020313.png]]

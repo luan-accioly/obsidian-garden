@@ -33,7 +33,18 @@ export const defaultContentPageLayout: PageLayout = {
 		depth: 1,
 		fontSize: 0.4,
     showTags: false
-	}
+	},
+  globalGraph: {
+    drag: true,
+    zoom: true,
+    depth: -1,
+    scale: 0.9,
+    repelForce: 0.3,
+    centerForce: 0.2,
+    linkDistance: 90,
+    fontSize: 0.6,
+    opacityScale: 1,
+  }
     }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
