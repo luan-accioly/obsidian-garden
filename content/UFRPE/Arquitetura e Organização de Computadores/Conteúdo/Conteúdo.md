@@ -3,6 +3,4 @@ title: 'Conteúdo'
 draft: false
 ---
 
-## 1VA
-
-## 2VA
+- [[Abstracoes e Tecnologias Computacionais | Abstrações e Tecnologias Computacionais]]
