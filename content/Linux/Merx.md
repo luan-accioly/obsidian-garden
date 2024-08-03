@@ -1,0 +1,3 @@
+- baixar planilha ( dados individuais ) [aqui](https://discordapp.com/channels/1122159403387322381/1122159404695953411/1244977454775275571)
+- acessar aba 'lista de perfis'
+- exportar tabela para outro arquivo

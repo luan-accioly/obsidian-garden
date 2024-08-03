@@ -65,3 +65,9 @@ draft: false
 > - [Amazon AWS](https://aws.amazon.com/pt/)
 > - [Google Cloud Plataform](https://cloud.google.com/)
 
+# Por trás do programa
+
+![[Pasted image 20240411202733.png]]
+
+> [!INFO]
+> Uma aplicação típica consiste em milhões de linhas de código (alto nível) mas o processador só entende linguagem de máquina
