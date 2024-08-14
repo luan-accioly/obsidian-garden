@@ -4,9 +4,11 @@
 
 **a) Qual processador possui o desempenho mais rápido expressado pelas instruções por segundo?**
 
-Desempenho P1 (instruções/segundo) = 3 x $10^9$/ 1,5 = 2 x $10^9$. 
-Desempenho P2 (instruções/segundo) = 2,5 x $10^9$/ 1,0 = 2,5 x $10^9$. 
-Desempenho P3 (instruções/segundo) = 4 x $10^9$/ 2,2 = 1,8 x $10^9$. 
+**Desempenho P1** (instruções/segundo) = 3 x $10^9$/ 1,5 = 2 x $10^9$. 
+
+**Desempenho P2** (instruções/segundo) = 2,5 x $10^9$/ 1,0 = 2,5 x $10^9$. 
+
+**Desempenho P3** (instruções/segundo) = 4 x $10^9$/ 2,2 = 1,8 x $10^9$. 
 
 P2 executa mais instruções por segundo.
 
@@ -14,23 +16,33 @@ P2 executa mais instruções por segundo.
 **b) Se cada processador executa um programa em 10 segundos, encontre o número de ciclos e o número de instruções. c) Ao tentar reduzir o tempo de execução em 30%, a CPI aumenta em 20%. Qual a taxa de clock que deve ser utilizada para a redução de tempo?**
 
 
-ciclos P1 = 10 x 3 x $10^9$= 30 x $10^9$
-ciclos P2 = 10 x 2,5 x $10^9$= 25 x $10^9$
-ciclos P3 = 10 x 4 x $10^9$= 40 x $10^9$
+**ciclos P1** = 10 x 3 x $10^9$= 30 x $10^9$
 
-Número de Instruções P1 = 30 x $10^9$/ 1,5 = 20 x $10^9$. 
-Número de Instruções P2 = 25 x $10^9$/ 1,0 = 25 x $10^9$. 
-Número de Instruções P3 = 40 x $10^9$/ 2,2 = 18,18 x $10^9$.
+**ciclos P2** = 10 x 2,5 x $10^9$= 25 x $10^9$
+
+**ciclos P3** = 10 x 4 x $10^9$= 40 x $10^9$
+
+**Número de Instruções P1** = 30 x $10^9$/ 1,5 = 20 x $10^9$. 
+
+**Número de Instruções P2** = 25 x $10^9$/ 1,0 = 25 x $10^9$. 
+
+**Número de Instruções P3** = 40 x $10^9$/ 2,2 = 18,18 x $10^9$.
 
 
 **c) Ao tentar reduzir o tempo de execução em 30%, a CPI aumenta em 20%. Qual a taxa de clock que deve ser utilizada para a redução de tempo?**
 
 $$CPI_{novo}= CPI_{velho} x 1,2$$
+
 $$CPI_1= 1,5 x 1,2 = 1,8 | CPI_2= 1,0 x 1,2 = 1,2 | CPI_3 = 2,2 x 1,2 = 2,6 $$
+
 $$frequência = \text{Número de instruções} * CPI  / tempo $$
+
 $$Tempo_{novo}= 0,7 * Tempo_{velho} = 0,7 * 10 = 7 segundos $$
+
 $$frequencia_1 = 20 * 10^9 * 1,8 / 0,7 = 5,14 GHz$$ 
+
 $$frequencia_2 = 25 * 10^9 * 1,2 / 0,7 = 4,28 GHz$$
+
 $$frequencia_3 = 18,18 * 10^9 * 2,6 / 0,7 = 6,75 GHz$$
 
 ### 2.
