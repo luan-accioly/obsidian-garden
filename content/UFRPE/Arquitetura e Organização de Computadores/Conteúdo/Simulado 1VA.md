@@ -31,19 +31,22 @@ P2 executa mais instruções por segundo.
 
 **c) Ao tentar reduzir o tempo de execução em 30%, a CPI aumenta em 20%. Qual a taxa de clock que deve ser utilizada para a redução de tempo?**
 
-$$CPI_{novo}= CPI_{velho} x 1,2$$
+$$CPI_{novo}= CPI_{velho} \times 1,2$$
 
-$$CPI_1= 1,5 x 1,2 = 1,8 | CPI_2= 1,0 x 1,2 = 1,2 | CPI_3 = 2,2 x 1,2 = 2,6 $$
+$$CPI_1= 1,5 \times 1,2 = 1,8$$ 
 
-$$frequência = \text{Número de instruções} * CPI  / tempo $$
+$$CPI_2= 1,0 \times 1,2 = 1,2 $$ 
+$$CPI_3 = 2,2 \times 1,2 = 2,6 $$
+
+$$\text{Nova Taxa de Clock} = \frac{\text{Número de instruções} \times \text{novo CPI}}{\text{Novo Tempo}} $$
 
 $$Tempo_{novo}= 0,7 * Tempo_{velho} = 0,7 * 10 = 7 segundos $$
 
-$$frequencia_1 = 20 * 10^9 * 1,8 / 0,7 = 5,14 GHz$$ 
+$$frequencia_1 = \frac{20 \times 10^9 \times 1,8}{7} = 5,14 GHz$$ 
 
-$$frequencia_2 = 25 * 10^9 * 1,2 / 0,7 = 4,28 GHz$$
+$$frequencia_2 = \frac{25 \times 10^9 \times 1,2}{7} = 4,28 GHz$$
 
-$$frequencia_3 = 18,18 * 10^9 * 2,6 / 0,7 = 6,75 GHz$$
+$$frequencia_3 = \frac{18,18 \times 10^9 \times 2,6}{7} = 6,75 GHz$$
 
 ### 2.
 
