@@ -1,4 +1,4 @@
-### 1. Descreva as etapas que transformam um programa escrito em linguagem de alto nível, como C, em uma representação que é executada diretamente por um processador de computador.
+1. **Descreva as etapas que transformam um programa escrito em linguagem de alto nível, como C, em uma representação que é executada diretamente por um processador de computador.**
 
 **Resposta:**
 
@@ -7,13 +7,13 @@
 - O sistema operacional carrega o executável em memória e prepara o ambiente de execução, alocando espaço para variáveis e preparando a execução.
 - o processador lê e executa  as instruções de linguagem de máquina diretamente, um a uma, realizando as operações descritas pelo programa original.
 
-### 2. Uma armadilha comum na avaliação de processadores é a utilização de um subconjunto da equação de desempenho como uma métrica de desempenho. Para ilustrar isso, considere os dois processadores a seguir. P1 tem uma taxa de clock de 4ghz, CPI médio de 0,9 e requer a execução de 5,0E9 instruções. P2 tem uma taxa de clock de 3 GHz, CPI médio de 0,75 e requer a execução de 1,9E9 instruções. Baseado apenas nestas informações determine qual dos três processadores tem o melhor desempenho
+2. **Uma armadilha comum na avaliação de processadores é a utilização de um subconjunto da equação de desempenho como uma métrica de desempenho. Para ilustrar isso, considere os dois processadores a seguir. P1 tem uma taxa de clock de 4ghz, CPI médio de 0,9 e requer a execução de 5,0E9 instruções. P2 tem uma taxa de clock de 3 GHz, CPI médio de 0,75 e requer a execução de 1,9E9 instruções. Baseado apenas nestas informações determine qual dos três processadores tem o melhor desempenho**
 
 $$
 \text{Tempo de Execução} = \frac{\text{Instrucões}}{\text{Taxa de Clock}} \times CPI
 $$
 
-### 3. Para a instrução C a seguir, qual é o código assembly do MIPS correspondente? Suponha que as variáveis f, g, h, i e j sejam atribuídas aos registradores \$s0,\$s1, \$s2, \$s3 e \$s4, respectivamente.  Suponha que o endereço base dos arrays A e B estejam nos registradores $s6 e $s7, respectivamente
+3. **Para a instrução C a seguir, qual é o código assembly do MIPS correspondente? Suponha que as variáveis f, g, h, i e j sejam atribuídas aos registradores \$s0,\$s1, \$s2, \$s3 e \$s4, respectivamente.  Suponha que o endereço base dos arrays A e B estejam nos registradores $s6 e $s7, respectivamente**
 
 ```
 B[8] = A[i - j];
@@ -42,7 +42,7 @@ addi  $t4, $s7, 8       # $t4 = endereço de B[8]
 sb    $t3, 0($t4)       # B[8] = A[i - j] (armazena um byte)
 ```
 
-### 4. Considere o seguinte loop em MIPS:
+4. **Considere o seguinte loop em MIPS:**
 
 ```mips
 LOOP: slt, $t2, $0, $t1
