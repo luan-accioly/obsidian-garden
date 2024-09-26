@@ -48,6 +48,59 @@ $$frequencia_2 = \frac{25 \times 10^9 \times 1,2}{7} = 4,28 GHz$$
 
 $$frequencia_3 = \frac{18,18 \times 10^9 \times 2,6}{7} = 6,75 GHz$$
 
+
+
+
+
+
+Os compiladores podem ter um impacto profundo sobre o desempenho de uma aplicação. Suponha que, para um programa, 
+
+o compilador A resulte em uma contagem de instruções dinâmicas de $1,0E9$ ($1 \times 10⁹$) e tenha um tempo de execução de 1,1 s, 
+enquanto o compilador B resulte em uma contagem de instruções dinâmicas de $1,2E9$ e um tempo de execução de 1,5 s. 
+
+a) Ache o CPI médio para cada programa dado que o processador possui um tempo de ciclo de clock de 1ns 
+
+b) Suponha que os programas compilados sejam executados em dois processadores diferentes. Se os tempos de execução nos dois processadores são iguais, o quanto mais rápido é o clock do processador que executa o código do compilador A em relação ao clock do processador que executa o código do compilador B?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 2.
 
 ## 1ª página
